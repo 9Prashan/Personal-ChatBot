@@ -24,7 +24,7 @@ pypdf
 aiosqlite
 
 # Web search tool
-duckduckgo-search
+duckduckgo-search>=6.2.0
 
 # HTTP requests (stock price tool)
 requests
