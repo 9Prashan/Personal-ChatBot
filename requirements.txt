@@ -1,0 +1,36 @@
+# Core LLM & LangChain
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langchain-mcp-adapters
+
+# LangGraph
+langgraph
+langgraph-checkpoint-sqlite
+langgraph-prebuilt
+
+# Google Gemini
+google-generativeai
+
+# Vector store (RAG)
+faiss-cpu
+
+# PDF loading
+pypdf
+
+# Async SQLite (checkpointer)
+aiosqlite
+
+# Web search tool
+duckduckgo-search
+
+# HTTP requests (stock price tool)
+requests
+
+# Streamlit UI
+streamlit
+
+# Environment variables
+python-dotenv
